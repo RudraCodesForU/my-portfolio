@@ -227,7 +227,7 @@ const testimonials = [
     imgPath: "/images/client4.png",
   },
   {
-    name: "Sneha Jiaswal",
+    name: "Sneha Jaiswal",
     mentions: "@snehajaiswal",
     review:
       "Rudrajyoti's expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
