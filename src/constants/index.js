@@ -230,7 +230,7 @@ const testimonials = [
     name: "Sneha Jaiswal",
     mentions: "@snehajaiswal",
     review:
-      "Rudrajyoti's expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
+    "Rudrajyoti's expertise in AI application development is truly impressive. He ensured the AI system was not only intelligent, but also robust, scalable, and aligned with real-world use cases—delivering results that exceeded expectations.",
     imgPath: "/images/client10.png",
   },
   {
